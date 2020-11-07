@@ -15,7 +15,7 @@ def play():
         # Reset environment and get initial state
         current_state = env.reset()
 
-        cv2.waitKey(500)
+        cv2.waitKey(600)
         done = False
         while not done:
             action = np.argmax(agent.get_qs(current_state))
