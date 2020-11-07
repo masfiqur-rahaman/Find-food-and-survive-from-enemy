@@ -1,0 +1,29 @@
+absl-py @ file:///C:/ci/absl-py_1603889282672/work
+astor==0.8.1
+certifi==2020.6.20
+gast @ file:///tmp/build/80754af9/gast_1597433534803/work
+grpcio @ file:///C:/ci/grpcio_1597406495377/work
+h5py==2.10.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+Keras==2.2.4
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing==1.1.0
+Markdown @ file:///C:/ci/markdown_1603216561566/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
+opencv-python==4.4.0.46
+Pillow==8.0.1
+protobuf==3.13.0
+pyreadline==2.1
+PyYAML==5.3.1
+scipy @ file:///C:/ci/scipy_1597675683670/work
+six==1.15.0
+tensorboard==1.12.2
+tensorflow==1.12.0
+termcolor==1.1.0
+tqdm==4.51.0
+Werkzeug==1.0.1
+wincertstore==0.2
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work
